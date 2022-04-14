@@ -1,5 +1,5 @@
 Nombre: 'Freddy Erick Velarde Silva'                CI: '13827575 LP'
-Materia: 'Informatica B-4'                          Docente: "Poly Lazaro Isaac Salazar Larico"
+Materia: 'COM-99 Informatica B-4'                          Docente: "Poly Lazaro Isaac Salazar Larico"
 
 investigar 20 comandos de consola, donde describa su funcionamiento y sintaxis.
 
